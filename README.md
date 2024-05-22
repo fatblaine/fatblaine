@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatblaine&label=Profile%20views&color=0e75b6&style=flat" alt="fatblaine" /> </p>
 
-- 🌱 I’m currently learning **Anything interesting on this planet.**
+- 🌱 I’m currently learning **anything interesting on this planet.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatblaine](https://github.com/fatblaine)
 
-- 💬 Ask me about **Architecture Design, Sports, Football, IT Technique, Java, React...**
+- 💬 Ask me about **Architecture Design, Sports, Football, IT Technique, Java, SpringBoot, React...**
 
 - 📫 How to reach me **Chenghao.Fan@outlook.com**
 
 - 📄 Know about my experiences [https://fatblaine.github.io/bootstrap-personal_web_page/](https://fatblaine.github.io/bootstrap-personal_web_page/)
 
-- ⚡ Fun fact **I think I'm funny.**
+- ⚡ Fun fact **100% Badminton lover.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
