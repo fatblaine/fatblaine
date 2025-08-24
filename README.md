@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatblaine](https://github.com/fatblaine)
 
-- 💬 Ask me about **Architecture Design, Sports, Football, IT Technique, Java, SpringBoot, React...**
+- 💬 Ask me about **Architecture Design, Sports, Football, IT Technique, Java, SpringBoot, C#, .Net, React...**
 
 - 📫 How to reach me **Chenghao.Fan@outlook.com**
 
