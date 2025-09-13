@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chenghao Fan</h1>
-<h3 align="center">A full-stack web developer who was used to be an architect.</h3>
+<h3 align="center">A full-stack developer who was used to be an architect designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatblaine&label=Profile%20views&color=0e75b6&style=flat" alt="fatblaine" /> </p>
 
