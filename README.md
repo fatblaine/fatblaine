@@ -1,29 +1,105 @@
+```md
 <h1 align="center">Hi 👋, I'm Chenghao Fan</h1>
-<h3 align="center">A full-stack developer who was used to be an architect designer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatblaine&label=Profile%20views&color=0e75b6&style=flat" alt="fatblaine" /> </p>
+<h3 align="center">
+Full-Stack Developer | Former Architectural Designer | Building Scalable & Modern Applications
+</h3>
 
-- 🌱 I’m currently learning **anything interesting on this planet.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/fatblaine](https://github.com/fatblaine)
-
-- 💬 Ask me about **IT Technique, Java, SpringBoot, C#, .Net, React, Architecture Design, Sports, Football...**
-
-- 📫 Reach me by Email: **Chenghao.Fan@outlook.com** | LinkedIn: **(https://www.linkedin.com/in/chenghao-fan-4606b71b8/)**
-
-- 📄 Know about my experiences [https://fatblaine.github.io/bootstrap-personal_web_page/](https://fatblaine.github.io/bootstrap-personal_web_page/)
-
-- ⚡ Fun fact **100% Badminton lover.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/fatblaine">
+    <img src="https://komarev.com/ghpvc/?username=fatblaine&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatblaine&show_icons=true&locale=en&layout=compact" alt="fatblaine" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatblaine&show_icons=true&locale=en" alt="fatblaine" /></p>
+- 🎓 Master of Computer Science student at The University of Sydney
+- 💻 Passionate about **Full-Stack Development**, Cloud Systems, and Software Architecture
+- 🏗️ Former architectural designer transitioning into software engineering
+- 🌱 Currently exploring:
+  - `.NET Ecosystem`
+  - `Cloud Deployment`
+  - `System Design`
+  - `AI-integrated Applications`
+- 🏸 Fun fact: **100% Badminton Lover**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatblaine&" alt="fatblaine" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,kafka,redis,mysql,mongodb" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,typescript,tailwind,bootstrap,html,css" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,linux,nginx,git,postman" />
+</p>
+
+### Design Background
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Smart Retail Price Comparison Platform
+Compare Woolworths & Coles product prices with historical tracking and barcode search.
+
+**Tech Stack:** `.NET`, `React`, `SQL Server`, `Azure`
+
+---
+
+### 🏥 Agentic AI Hospital Resource Allocation System
+AI-driven hospital resource optimization platform developed in a team environment.
+
+**Focus:** Multi-agent systems, scheduling, intelligent decision-making
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:Chenghao.Fan@outlook.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/chenghao-fan-4606b71b8/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://github.com/fatblaine">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fatblaine&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatblaine&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatblaine&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Motto
+
+> “Design taught me aesthetics. Engineering taught me how to build ideas into reality.”
+```
