@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Chenghao Fan</h1>
 
 <h3 align="center">
@@ -102,4 +101,3 @@ AI-driven hospital resource optimization platform developed in a team environmen
 ## ⚡ Motto
 
 > “Design taught me aesthetics. Engineering taught me how to build ideas into reality.”
-```
