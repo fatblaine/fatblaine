@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Chenghao Fan</h1>
+<h1 align="center">Hi, I'm Chenghao Fan 👋</h1>
 
-<h3 align="center">
-Full-Stack Developer | Former Architectural Designer | Building Scalable & Modern Applications
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Former+Architectural+Designer;Building+Scalable+%26+Modern+Applications" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/fatblaine">
