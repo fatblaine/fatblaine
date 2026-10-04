@@ -22,7 +22,6 @@
   - `Cloud Deployment`
   - `System Design`
   - `AI-integrated Applications`
-- 🏸 Fun fact: **100% Badminton Lover**
 
 ---
 
@@ -52,17 +51,30 @@
 
 ## 📌 Featured Projects
 
-### 🛒 Smart Retail Price Comparison Platform
-Compare Woolworths & Coles product prices with historical tracking and barcode search.
+### 🏘️ [SuburbLens](https://www.suburblensapp.com/)
+See what a Sydney or Melbourne suburb is *actually* like. SuburbLens turns ABS Census data (2011 / 2016 / 2021) into readable suburb profiles that show which direction a neighbourhood is heading, not just a snapshot. It's built for new migrants and international students deciding where to live.
 
-**Tech Stack:** `.NET`, `React`, `SQL Server`, `Azure`
+- 📈 Tenure trends (owned / mortgaged / rented) and a custom **Residency Shift Index**
+- 🌏 Languages spoken at home, countries of birth, education levels, recorded crime
+- 🗺️ Side-by-side suburb comparison and a city-wide map view
+- 🧩 Also available as a **Chrome extension** on the Chrome Web Store
+
+**Tech Stack:** `.NET` `AWS Lambda` `API Gateway` `AWS SAM` `Supabase` `AWS Amplify`
+
+[![Live](https://img.shields.io/badge/Live-suburblensapp.com-2ea44f?style=flat-square)](https://www.suburblensapp.com/)
 
 ---
 
-### 🏥 Agentic AI Hospital Resource Allocation System
-AI-driven hospital resource optimization platform developed in a team environment.
+### 🛒 [Price Peer](https://www.price-peer.com/)
+A full-stack grocery price comparison platform for Woolworths & Coles, with historical price tracking and barcode search.
 
-**Focus:** Multi-agent systems, scheduling, intelligent decision-making
+- ⏱️ Scheduled price tracking with EventBridge-triggered Lambdas
+- ⚡ Redis caching (Upstash) for fast product queries
+- 🔐 Cognito authentication, Supabase Row-Level Security, JWT validation and a full security audit
+
+**Tech Stack:** `React` `.NET` `AWS Lambda` `Supabase` `Redis` `Cognito` `EventBridge` `CloudFront` `S3`
+
+[![Live](https://img.shields.io/badge/Live-price--peer.com-2ea44f?style=flat-square)](https://www.price-peer.com/)
 
 ---
 
